@@ -1,8 +1,2 @@
-# DAPI
-Custom (D)ata APIs to interact with Python libraries primarily for data manipulation/visualization.
-
-## Pandas
-
-## NumPy
-
-## Matplotlib
+# Machine Learning Library
+Custom functions that interact with Python libraries to streamline data cleaning, feature engineering, etc. for Machine Learning tasks.
